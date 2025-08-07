@@ -1,0 +1,6 @@
+public class address {
+   public static void main(string[] args) {
+      system.out.printIn("Name: chandan kumar\n");
+      system.out.print("bihar");
+      }
+      
